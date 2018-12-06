@@ -1,2 +1,2 @@
-# bc-turki
-bc-turki
+# dines20bot-room
+dines20bot-room
