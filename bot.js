@@ -132,6 +132,7 @@ client.on('ready', () => {
 client.user.setStatus("idle")
 });
  
+
  var prefix = "$";
 client.on("message", message => {
 
